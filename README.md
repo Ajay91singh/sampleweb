@@ -1,0 +1,2 @@
+# sampleweb
+Scripts for Azure
